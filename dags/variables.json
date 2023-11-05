@@ -1,0 +1,5 @@
+{
+    "URL_API": "http://api.exchangerate.host/live",
+    "access_key": "510707589c6d083e9d6de8cf0d16a811",
+    "conn_name": "conn_db"
+}
